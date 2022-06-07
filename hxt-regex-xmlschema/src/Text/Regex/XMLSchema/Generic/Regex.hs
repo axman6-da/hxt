@@ -22,7 +22,7 @@
 -- ------------------------------------------------------------
 
 module Text.Regex.XMLSchema.Generic.Regex
-    ( GenRegex
+    ( GenRegex(..)
 
     , mkZero
     , mkZero'
